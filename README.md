@@ -1,0 +1,1 @@
+# studi-alkitab-1
