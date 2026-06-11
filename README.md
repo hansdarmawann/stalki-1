@@ -1,7 +1,9 @@
 # 📖 Perjalanan Membaca Alkitab Saya
 
 **Tanggal Mulai:** 16 Juni 2026
+
 **Target:** 1 pasal per hari
+
 **Strategi:** Membangun momentum dengan menyelesaikan kitab-kitab terpendek terlebih dahulu.
 
 ---
