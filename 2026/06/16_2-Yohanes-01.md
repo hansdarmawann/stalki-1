@@ -9,9 +9,9 @@ tags:
   - Kasih
 ---
 
-**Episode :** Kamis, 16 Juni 2026 (Week-25)
+# **Episode :** Kamis, 16 Juni 2026 (Week-25)
 
-**Topic   :** Kebenaran dan Kasih dalam 2 Yohanes
+# **Topic   :** Kebenaran dan Kasih dalam 2 Yohanes
 
 ---
 
