@@ -5,11 +5,11 @@ title: "Filemon: Injil yang Memulihkan Relasi"
 date: 2026-06-18
 tags:
 
-* filemon
-* pengampunan
-* rekonsiliasi
-* kasih
-* injil
+- filemon
+- pengampunan
+- rekonsiliasi
+- kasih
+- injil
 
 ---
 
