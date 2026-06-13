@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "Filemon: Injil yang Memulihkan Relasi"
+title: "Injil yang Memulihkan Relasi"
 date: 2026-06-18
 tags:
 
