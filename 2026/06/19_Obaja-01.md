@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Obaja 1: Ketika Kesombongan dan Ketidakpedulian Diadili"
+title: "Kesombongan, Ketidakpedulian, dan Keadilan Tuhan"
 date: 2026-06-20
 tags:
   - Alkitab
@@ -12,7 +12,7 @@ tags:
 
 # **Episode :** Sabtu, 20 Juni 2026 (Minggu ke-25)
 
-# **Topic   :** Obaja 1 – Kesombongan, Ketidakpedulian, dan Keadilan Tuhan
+# **Topic   :** Kesombongan, Ketidakpedulian, dan Keadilan Tuhan
 
 ---
 
