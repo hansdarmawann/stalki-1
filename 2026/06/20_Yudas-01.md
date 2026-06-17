@@ -4,11 +4,10 @@ layout: post
 title: "Tetap Berdiri di Tengah Kebingungan"
 date: 2026-06-20
 tags:
-
-- Alkitab
-- Yudas
-- Iman
-- Ketekunan
+    - Alkitab
+    - Yudas
+    - Iman
+    - Ketekunan
 
 ---
 
