@@ -31,10 +31,10 @@ Pada akhirnya, pengharapan terbesar bukan terletak pada kemampuan manusia untuk 
 
 ## 💡 Key Insights
 
-* Kasih karunia Tuhan bukan alasan untuk hidup sesuka hati.
-* Iman yang sehat perlu dirawat dan dipelihara secara terus-menerus.
-* Kebenaran perlu dijaga, tetapi harus disertai belas kasihan kepada sesama.
-* Tuhan bukan hanya memanggil umat-Nya untuk setia, tetapi juga sanggup memelihara mereka sampai akhir.
+- Kasih karunia Tuhan bukan alasan untuk hidup sesuka hati.
+- Iman yang sehat perlu dirawat dan dipelihara secara terus-menerus.
+- Kebenaran perlu dijaga, tetapi harus disertai belas kasihan kepada sesama.
+- Tuhan bukan hanya memanggil umat-Nya untuk setia, tetapi juga sanggup memelihara mereka sampai akhir.
 
 ---
 
