@@ -9,7 +9,7 @@ tags:
   - Kasih
 ---
 
-# **Episode :** Kamis, 16 Juni 2026 (Week-25)
+# **Episode :** Selasa, 16 Juni 2026 (Week-25)
 
 # **Topic   :** Berjalan dalam Kebenaran dan Kasih
 

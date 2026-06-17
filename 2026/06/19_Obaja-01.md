@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kesombongan, Ketidakpedulian, dan Keadilan Tuhan"
-date: 2026-06-20
+date: 2026-06-19
 tags:
   - Alkitab
   - Obaja
@@ -10,7 +10,7 @@ tags:
   - Keadilan Tuhan
 ---
 
-# **Episode :** Sabtu, 20 Juni 2026 (Minggu ke-25)
+# **Episode :** Jumat, 19 Juni 2026 (Minggu ke-25)
 
 # **Topic   :** Kesombongan, Ketidakpedulian, dan Keadilan Tuhan
 
